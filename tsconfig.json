@@ -1,0 +1,14 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+
+        "outDir": "wwwroot",
+        "target": "es6",
+        "jsx": "react",
+        "module": "umd",
+        "moduleResolution": "node"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
